@@ -81,9 +81,6 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
-
-
-
+1. Repositório selecionado: python <https://github.com/pallets/flask>
+2. Gráfico selecionado: ![Gráfico de funções com e sem tipo de retorno](report_flask.csv)
+3. Explicação: O gráfico mostra que, entre 2020 e 2025, houve uma queda gradual no número de funções sem tipo de retorno declarado, enquanto aumentou significativamente a quantidade de funções com tipo definido. Esse movimento revela um processo de modernização do código, em que a equipe passou a adotar boas práticas como a declaração explícita de tipos, o que traz mais clareza, facilita a manutenção, reduz erros e indica uma evolução consistente rumo a um código mais organizado e robusto.
